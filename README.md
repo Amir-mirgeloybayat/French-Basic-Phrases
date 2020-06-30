@@ -1,6 +1,6 @@
 # French-Basic-Phrases
 
-This is an Android student project consists working with:
+This is an Android student project working with:
 -gridlayouts
 -buttons
 -starting new acticities
